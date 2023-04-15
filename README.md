@@ -15,8 +15,7 @@ La tâche consiste à effectuer une analyse de la performance des ventes de l'en
 
 • Sur la base de votre analyse, quelles recommandations feriez-vous pour améliorer les performances de vente de chaque gamme de produits ?
 
-__*ANALYSE DE DONNÉES*__
-L'analyse se fera à travers SQL SERVER dont vous retrouverez dans ce repertoire GITHUB.
+__*ANALYSE DE DONNÉES*__ : [CLIQUEZ ICI POUR ACCEDER A L'ANALYSE DE DONNEES](https://github.com/Morelkdata/PortfolioProject/blob/main/AnalyseRFM.sql)
 
 __*VISUALISATION*__ : J![Tableau de bord 1](https://user-images.githubusercontent.com/129965534/232231356-fa183e46-ccb7-4894-9f38-2c0167a5053b.png)
 
