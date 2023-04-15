@@ -99,13 +99,14 @@ GROUP BY CUSTOMERNAME)FreqetMon
 Select *, 
 		CASE
 			WHEN RFM in (444,443,434,433,432,423,344,343,441,414) THEN 'Clients Perdus'
-			WHEN RFM in (422,421,412,311,341) THEN 'Clients à Risque'
+			WHEN RFM in (422,421,412,311,341) THEN 'Clients Ã  Risque'
 			WHEN RFM in (244,144,224) THEN 'Nouveaux Clients'
 			WHEN RFM in (333,332,322,233) THEN 'Clients Potentiellement Perdus'
 			WHEN RFM in (232,222,234,133,223,123,221,212,211) THEN 'Clients Actifs'
 			WHEN RFM in (122,121,112,111) THEN 'Clients Loyals'
-			ELSE 'Client à Classifier'
-		END as CLASSEMENT_CLIENTSfrom
+			ELSE 'Client Ã  Classifier'
+		END as CLASSEMENT_CLIENTS 
+from
 (
 	select CUSTOMERNAME, CAST(R as varchar)+CAST(F as varchar)+CAST(M as varchar)RFM 
 	from #ClassementRFM
