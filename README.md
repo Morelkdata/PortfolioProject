@@ -1,9 +1,7 @@
 # PortfolioProject
 
 _**INTRODUCTION**_
-
-Cette étude de cas d'analyse exploratoire s'adresse à l'exigence du projet Capstone pour le certificat professionnel Google Data Analytics. L'étude de cas implique un ensemble de données de ventes.
-
+L'étude de cas implique un ensemble de données de ventes.
 
 __*Tâche de l'étude de cas*__ : Analyse de la performance des ventes par gamme de produits
 
@@ -20,9 +18,11 @@ La tâche consiste à effectuer une analyse de la performance des ventes de l'en
 __*ANALYSE DE DONNÉES*__
 L'analyse se fera à travers SQL SERVER dont vous retrouverez dans ce repertoire GITHUB.
 
-__*VISUALISATION*__ :
+__*VISUALISATION*__ : J![Tableau de bord 1](https://user-images.githubusercontent.com/129965534/232231356-fa183e46-ccb7-4894-9f38-2c0167a5053b.png)
+
 
 _POUR ACCEDER AU TABLEAU DE BORD DYNAMIQUE:_ [CLIQUEZ ICI](https://public.tableau.com/views/PortfolioAnalyseVenteParMorelK/Tableaudebord1?:language=fr-FR&:display_count=n&:origin=viz_share_link)
+
 
 __*CONCLUSION & RECOMMENDATIONS*__
 
