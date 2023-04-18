@@ -7,7 +7,7 @@ Specifically, we will answer this question:
 
  [SQL ANALYSIS HERE](https://github.com/Morelkdata/PortfolioProject/blob/main/AnalyseRFM.sql)
 
-__*VISUALISATION*__ : [Tableau de bord 1](https://user-images.githubusercontent.com/129965534/232231356-fa183e46-ccb7-4894-9f38-2c0167a5053b.png)
+__*VISUALISATION*__ : ![Tableau de bord 1](https://user-images.githubusercontent.com/129965534/232231356-fa183e46-ccb7-4894-9f38-2c0167a5053b.png)
 
 
 [Link of TABLEAU](https://public.tableau.com/views/PortfolioAnalyseVenteParMorelK/Tableaudebord1?:language=fr-FR&:display_count=n&:origin=viz_share_link)
